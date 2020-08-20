@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "cypress": "^4.12.1"
+  },
+  "name": "BMI_Calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/grconnor/BMI_Calculator.git",
+  "author": "grconnor",
+  "license": "MIT"
+}
