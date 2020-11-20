@@ -15,11 +15,15 @@
 - We were challenged with calculating the users bmi once given their weight and height. We were also challenge in displaying their bmi value relative to a graph.
 
 
-- [User](https://github.com/grconnor/bmi_calculator)
+
 
 ## Dev:
 
 - Connor Roelofsen.
+
+## Project Links:
+
+- [User](https://github.com/grconnor/bmi_calculator)
 
 ## Built with
 
