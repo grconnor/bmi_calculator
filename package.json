@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "cypress": "^4.12.1"
+    "cypress": "^6.2.1"
   },
   "name": "BMI_Calculator",
   "version": "1.0.0",
